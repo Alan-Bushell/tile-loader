@@ -1,0 +1,80 @@
+
+
+.container{
+    border: solid black 1px;
+    margin-top: 20px;
+}
+
+ul{
+    align-content: block;
+    padding: 0 0 0 16px;;
+}
+
+
+
+li{
+    text-decoration: none;
+    display: inline-block;
+    clear: both;
+}
+.tile{
+    border: solid 2px orange;
+    max-height: 250px;
+    width: 22%;
+    margin: 10px 10px;
+    align-content: center;
+    border-radius: 10px;
+}
+
+.tile:hover{
+    opacity: 0.8;
+    text-decoration: underline overline orange dotted;
+}
+.city-name{
+    text-align: center;
+    margin-top: 65%;
+    color: orange;
+    font-weight: 300;
+    font-family: sans-serif;
+}
+
+.dublin-tile{
+    background-image: url("../img/dublin.jpg");
+    background-repeat: no-repeat;
+    background-position: 0px, 0px, 30px, 10px;   
+}
+.london-tile{
+    background-image: url("../img/london.jpg");
+    background-repeat: no-repeat;
+    background-position:  center center;  
+}
+.paris-tile{
+    background-image: url("../img/paris.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;   
+}
+.berlin-tile{
+    background-image: url("../img/berlin.jpg");
+    background-repeat: no-repeat;
+    background-position: center;   
+}
+.milan-tile{
+    background-image: url("../img/milan.jpg");
+    background-repeat: no-repeat;
+    background-position: center;   
+}
+.vienna-tile{
+    background-image: url("../img/vienna.jpg");
+    background-repeat: no-repeat;
+    background-position:  right;   
+}
+.brussels-tile{
+    background-image: url("../img/brussels.jpg");
+    background-repeat: no-repeat;
+    background-position: center left;   
+}
+.amsterdam-tile{
+    background-image: url("../img/amsterdam.jpg");
+    background-repeat: no-repeat;
+    background-position: center;   
+}
