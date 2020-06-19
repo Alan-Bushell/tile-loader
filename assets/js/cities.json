@@ -1,0 +1,26 @@
+
+[ 
+{
+"city": "Dublin",
+"description": "Things about the city",
+"img":"src",
+"lat":"XXX",
+"lang":"XX",
+"attractions": [{
+          "attraction 1": "Trinity",
+          "attraction 2": "Guiness Storehouse"
+}]
+},
+{
+"city": "London",
+"description": "Things about the city",
+"img":"src",
+"lat":"XXX",
+"lang":"XX",
+"attractions": [{
+          "attraction 1": "Big Ben",
+          "attraction 2": "Tower of london"
+
+}]
+}]
+

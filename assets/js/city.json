@@ -1,0 +1,42 @@
+ [
+    {
+        "city": "Dublin",
+        "population": "1.4mil",
+        "img src":"/img/dublin.jpg",
+        "lat":"XXX",
+        "lang":"XX",
+        "attraction":"Trinity"
+    },
+    {
+    "city": "London",
+        "population": "8.2 mil",
+        "img":"src",
+        "lat":"XXX",
+        "lang":"XX",
+        "attraction":"Trinity"
+    },
+    {
+    "city": "Paris",
+        "population": "4.5 mil",
+        "img":"src",
+        "lat":"XXX",
+        "lang":"XX",
+        "attraction":"Trinity"
+    },
+    {
+    "city": "Milan",
+        "population": "3 mil",
+        "img":"src",
+        "lat":"XXX",
+        "lang":"XX",
+        "attraction":"Trinity"
+    },
+    {
+    "city": "Amsterdam",
+        "population": "2 mil",
+        "img":"src",
+        "lat":"XXX",
+        "lang":"XX",
+        "attraction":"Trinity"
+    }
+]
